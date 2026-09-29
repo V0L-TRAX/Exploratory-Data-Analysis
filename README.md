@@ -1,4 +1,4 @@
-# Task 02 – Exploratory Data Analysis (EDA)
+#  Exploratory Data Analysis (EDA)
 
 ## Project Overview
 This project creates a complete **Exploratory Data Analysis report** for the Mall Customers dataset.
